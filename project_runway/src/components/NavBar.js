@@ -7,6 +7,7 @@ function NavBar() {
         <Link to="/Home">Dashboard</Link>
         <Link to="/About">About</Link>
         <Link to="/Profile">Profile</Link>
+        <Link to="/Top">Logout</Link>
         </nav>
     )
 }
