@@ -1,0 +1,61 @@
+.title {
+    text-decoration: underline;
+    font-size: 4vw;
+}
+
+h2 {
+    font-size: 2vw;
+}
+.para {
+    font-size: 1.5vw;
+}
+
+.boxClass {
+
+    color: white;
+    border: 50px solid rgb(103, 154, 194);
+    background-color: rgb(31, 31, 31);
+    padding-left: 5px;
+    padding-right: 5px;
+    height: 90vh;
+}
+
+.valuesDiv {
+    display: flex;
+    flex-direction: column;
+    margin-left: 28.3vw;
+    font-size: 1.2vw;
+}
+
+.outsideColumn {
+    text-align: center;
+}
+
+.runway {
+    font-size: 3vw;
+    margin-left: 28.3vw;
+}
+
+.values {
+    font-size: 1.5vw;
+}
+
+.internalBox {
+    background-color: rgb(65, 64, 64);
+    border-radius: 12px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.NavLinks {
+    color: white;
+  }
+
+.cancel {
+    font-size: 1.8vw;
+    margin-left: 28.3vw
+}
+
+.edit {
+    font-size: 1.8vw;
+}

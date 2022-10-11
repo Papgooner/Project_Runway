@@ -1,0 +1,12 @@
+.loginDiv {
+    text-align: center;
+}
+
+.loginBox {
+    color: white;
+    border: 50px solid rgb(103, 154, 194);
+    background-color: rgb(31, 31, 31);
+    padding-left: 5px;
+    padding-right: 5px;
+    height: 90vh;
+}

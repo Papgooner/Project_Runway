@@ -1,0 +1,14 @@
+#Error {
+    font-size: 5vw;
+    margin: 0px;
+}
+
+.container {
+    text-align: center;
+    background-color: rgb(103, 154, 194);
+    height: 100vh;
+}
+
+.Badge1 {
+    height: 300px;
+}
