@@ -1,17 +1,23 @@
 select {
   color: black;
-  width:230px; 
   justify-content: center;
   font-size: 25px;
   display: inline-block;
-  margin-top: 18px;
+  margin-top: 1.2vw;
 }
 
 .DropdownDiv {
   display:flex; flex-direction:row;
   justify-content: center;
+  white-space:nowrap;
 }
 
 .dropdown {
   font-size: 1.5vw;
+  color: white;
+  background-color: rgb(103, 154, 194);
+  border-radius: 8px;
+  padding: 0.6vw;
+  width: auto;
+  border-color: white;
 }

@@ -8,16 +8,16 @@ h2 {
 }
 .para {
     font-size: 1.5vw;
+    margin-top: 1.6vw;
 }
 
 .boxClass {
-
     color: white;
     border: 50px solid rgb(103, 154, 194);
     background-color: rgb(31, 31, 31);
     padding-left: 5px;
     padding-right: 5px;
-    height: 90vh;
+    height: 90.5vh;
 }
 
 .valuesDiv {
@@ -53,9 +53,22 @@ h2 {
 
 .cancel {
     font-size: 1.8vw;
-    margin-left: 28.3vw
+    margin-left: 28.3vw;
+    background-color: rgb(103, 154, 194);
+    border-radius: 6px;
+    border-color: white;
+    color: white;
 }
 
 .edit {
     font-size: 1.8vw;
+    background-color: rgb(103, 154, 194);
+    border-radius: 6px;
+    border-color: white;
+    color: white;
+}
+
+.HomepageDiv {
+    background-color: rgb(103, 154, 194);
+    height: 100vh;
 }

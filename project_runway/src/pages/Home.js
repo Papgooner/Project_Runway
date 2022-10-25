@@ -109,7 +109,7 @@ function Home() {
     }
     
     return (
-      <div>
+      <div className="HomepageDiv">
         <NavBar />
         <div className="boxOutline">
         <div className="boxClass">
@@ -118,8 +118,8 @@ function Home() {
         <br></br>
         <h2>Here you can view information about the runways of RAF Leeming.</h2>
         <div className="DropdownDiv">
-        <p className="para">Select a runway:</p>
-        <Dropdown onSelectHandler={OnSelect}/>
+        <label htmlFor="dropdown" className="para">Select a runway:</label>
+        <Dropdown id="dropdown" onSelectHandler={OnSelect}/>
         </div>
         </div>
         <div className="internalBox">

@@ -5,15 +5,14 @@ nav {
   height: auto;
   top: 0px;
   left: 0px;
+  right: 0px;
   opacity: 1;
   font-family: "Roboto Mono", monospace;
   display: flex;
-  justify-content: space-between;
-  align-items: center;
+  align-items: left;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
   padding: 0.5rem;
-  border-radius: 12px;
-  border: 1px solid white;
+  border-bottom: 1px solid white;
   background-color: rgb(31, 31, 31);
   padding-left: 5px;
   padding-right: 5px;
